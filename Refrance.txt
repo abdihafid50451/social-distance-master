@@ -1,0 +1,5 @@
+https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/
+
+TO EXECUTE FOLLOW THIS
+
+python social_distance_detector.py --input VIDEO1.mp4 --output OUTPUT1.mp4
